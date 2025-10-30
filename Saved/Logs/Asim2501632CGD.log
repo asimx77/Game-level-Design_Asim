@@ -1855,3 +1855,1348 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2025.10.30-04.54.27:562][ 54]LoadErrors: Warning: While trying to load package /Game/Rock4, a dependent package /Game/aerial_rocks_01_rough_4k was not available. Additional explanatory information follows:
 FPackageName: Skipped package /Game/aerial_rocks_01_rough_4k has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/ASIM/Game-level-Design_Asim/Content/aerial_rocks_01_rough_4k.uasset'. Perhaps it has been deleted or was not synced?
 
+[2025.10.30-04.55.12:318][731]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.30-04.55.12:438][731]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.30-04.55.12:560][732]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.30-04.55.17:336][127]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2025.10.30-04.55.17:336][127]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.30-04.57.53:334][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 324.715546
+[2025.10.30-04.57.54:333][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-04.57.54:333][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 325.382904, Update Interval: 305.584900
+[2025.10.30-04.59.11:023][783]LogAssetTools: Warning: Failed to import 'D:\ASIM\rock_wall_15_1k/rock_wall_15.bin'. Unknown extension 'bin'.
+[2025.10.30-04.59.11:037][783]LogAssetTools: Warning: Failed to import 'D:\ASIM\rock_wall_15_1k/rock_wall_15_1k.blend'. Unknown extension 'blend'.
+[2025.10.30-04.59.11:037][783]LogStreaming: Display: FlushAsyncLoading(560): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-04.59.11:430][783]LogInterchangeEngine: Display: Interchange start importing source [D:/ASIM/rock_wall_15_1k/rock_wall_15_1k.gltf]
+[2025.10.30-04.59.14:371][783]LogSlate: Window 'Import Content' being destroyed
+[2025.10.30-04.59.14:405][783]LogInterchangeEngine: [Pending] Importing
+[2025.10.30-04.59.14:408][783]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.30-04.59.14:408][783]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.10.30-04.59.14:409][783]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.10.30-04.59.14:411][783]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.10.30-04.59.14:412][783]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.10.30-04.59.14:412][783]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.10.30-04.59.14:515][784]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.10.30-04.59.14:515][784]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.10.30-04.59.14:515][784]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.10.30-04.59.14:515][784]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.10.30-04.59.14:515][784]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.10.30-04.59.14:515][784]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.10.30-04.59.14:515][785]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.30-04.59.14:647][786]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.10.30-04.59.14:647][786]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.10.30-04.59.14:647][786]LogInterchangeEngine: [Success] Import Canceled
+[2025.10.30-04.59.23:922][ 80]LogStreaming: Display: FlushAsyncLoading(605): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-04.59.23:950][ 80]LogInterchangeEngine: [Pending] Importing
+[2025.10.30-04.59.23:951][ 80]LogInterchangeEngine: Display: Interchange start importing source [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_ao_1k.jpg]
+[2025.10.30-04.59.23:951][ 80]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.30-04.59.23:951][ 80]LogInterchangeEngine: Display: Interchange start importing source [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_arm_1k.jpg]
+[2025.10.30-04.59.23:952][ 80]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.10.30-04.59.23:952][ 80]LogInterchangeEngine: Display: Interchange start importing source [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_diff_1k.jpg]
+[2025.10.30-04.59.23:953][ 80]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.10.30-04.59.23:953][ 80]LogInterchangeEngine: Display: Interchange start importing source [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_disp_1k.png]
+[2025.10.30-04.59.23:954][ 80]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.10.30-04.59.23:954][ 80]LogInterchangeEngine: Display: Interchange start importing source [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_nor_gl_1k.exr]
+[2025.10.30-04.59.23:955][ 80]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.10.30-04.59.24:083][ 82]LogStreaming: Display: FlushAsyncLoading(611): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-04.59.24:085][ 82]LogInterchangeImport: JPEG file [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_arm_1k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.10.30-04.59.24:085][ 82]LogInterchangeImport: JPEG file [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_diff_1k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.10.30-04.59.24:085][ 83]LogInterchangeImport: JPEG file [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_ao_1k.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.10.30-04.59.24:160][ 83]LogTexture: Display: Building textures: /Game/Assets/textures/rock_wall_15_arm_1k.rock_wall_15_arm_1k (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Fast
+[2025.10.30-04.59.24:167][ 83]LogTexture: Display: Building textures: /Game/Assets/textures/rock_wall_15_disp_1k.rock_wall_15_disp_1k (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 113.583323 MB), EncodeSpeed: Fast
+[2025.10.30-04.59.24:186][ 84]LogTexture: Display: Building textures: /Game/Assets/textures/rock_wall_15_diff_1k.rock_wall_15_diff_1k (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Fast
+[2025.10.30-04.59.24:192][ 84]LogTexture: Display: Building textures: /Game/Assets/textures/rock_wall_15_ao_1k.rock_wall_15_ao_1k (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 112.583323 MB), EncodeSpeed: Fast
+[2025.10.30-04.59.24:341][ 86]LogTexture: Display: Building textures: /Game/Assets/textures/rock_wall_15_nor_gl_1k.rock_wall_15_nor_gl_1k (TFO_BC6H, 1024x1024 x1x1x1) (Required Memory Estimate: 87.666648 MB), EncodeSpeed: Fast
+[2025.10.30-04.59.24:373][ 86]LogInterchangeEngine: Display: Interchange import completed [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_disp_1k.png]
+[2025.10.30-04.59.24:373][ 86]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.10.30-04.59.24:373][ 86]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.10.30-04.59.24:373][ 86]LogInterchangeEngine: Display: Interchange start importing source [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_rough_1k.exr]
+[2025.10.30-04.59.24:440][ 87]LogInterchangeEngine: Display: Interchange import completed [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_arm_1k.jpg]
+[2025.10.30-04.59.24:440][ 87]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.10.30-04.59.24:440][ 87]LogInterchangeEngine: Display: Interchange import completed [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_diff_1k.jpg]
+[2025.10.30-04.59.24:440][ 87]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.10.30-04.59.24:440][ 87]LogInterchangeEngine: Display: Interchange import completed [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_ao_1k.jpg]
+[2025.10.30-04.59.24:440][ 87]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.30-04.59.24:537][ 89]LogStreaming: Display: FlushAsyncLoading(616): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-04.59.25:100][121]LogTexture: Display: Building textures: /Game/Assets/textures/rock_wall_15_rough_1k.rock_wall_15_rough_1k (TFO_BC6H, 1024x1024 x1x1x1) (Required Memory Estimate: 81.666648 MB), EncodeSpeed: Fast
+[2025.10.30-04.59.25:221][127]LogInterchangeEngine: Display: Interchange import completed [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_nor_gl_1k.exr]
+[2025.10.30-04.59.25:221][127]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.10.30-04.59.25:700][136]LogInterchangeEngine: Display: Interchange import completed [D:/ASIM/rock_wall_15_1k/textures/rock_wall_15_rough_1k.exr]
+[2025.10.30-04.59.25:743][136]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.30-04.59.25:743][136]LogInterchangeEngine: [Success] Import Done
+[2025.10.30-04.59.47:969][311]Cmd: DELETE
+[2025.10.30-04.59.47:969][311]Cmd: ACTOR DELETE
+[2025.10.30-04.59.47:975][311]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-04.59.47:999][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.30-04.59.48:003][311]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.10.30-05.00.39:917][ 97]Cmd: SELECT NONE
+[2025.10.30-05.00.47:452][656]Cmd: SELECT NONE
+[2025.10.30-05.01.25:695][501]Cmd: SELECT NONE
+[2025.10.30-05.01.31:233][885]Cmd: SELECT NONE
+[2025.10.30-05.01.52:957][402]Cmd: SELECT NONE
+[2025.10.30-05.02.03:411][195]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.10.30-05.02.03:419][195]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.10.30-05.02.03:429][196]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.10.30-05.02.24:353][508]LogContentBrowser: Attempting asset rename: NewMaterial -> Rockwalltexture
+[2025.10.30-05.02.24:387][508]LogContentBrowser: End creating deferred item NewMaterial
+[2025.10.30-05.02.31:983][ 16]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/textures/Rockwalltexture.Rockwalltexture
+[2025.10.30-05.02.32:036][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.10.30-05.02.32:036][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.10.30-05.02.32:036][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.10.30-05.02.32:036][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.10.30-05.02.32:036][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.10.30-05.02.32:036][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.10.30-05.02.32:036][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.10.30-05.02.32:036][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.10.30-05.02.32:036][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.10.30-05.02.32:036][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.10.30-05.02.32:036][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.10.30-05.02.32:036][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.10.30-05.02.32:036][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.10.30-05.02.32:036][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.10.30-05.02.32:036][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.10.30-05.02.32:036][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.10.30-05.02.32:037][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.10.30-05.02.32:037][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.10.30-05.02.32:038][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.10.30-05.02.32:038][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.10.30-05.02.32:038][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.10.30-05.02.32:038][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.10.30-05.02.32:038][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.10.30-05.02.32:038][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.10.30-05.02.32:038][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.10.30-05.02.32:038][ 16]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.10.30-05.02.32:038][ 16]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.10.30-05.02.32:135][ 16]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.30-05.02.32:206][ 16]LogStreaming: Display: FlushAsyncLoading(617): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-05.02.32:290][ 16]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2025.10.30-05.02.33:002][ 16]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.02.33:002][ 16]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.30-05.02.33:002][ 16]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.02.33:002][ 16]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.02.33:026][ 16]LogSlate: Took 0.011668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.30-05.02.33:352][ 18]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x21 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 80% occupied, 3 triangles, Floor_Mesh
+[2025.10.30-05.02.37:117][167]MaterialEditorStats: Base pass vertex shader: 284 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.02.37:117][167]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.02.37:117][167]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.30-05.02.37:117][167]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.02.37:117][167]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.02.37:438][172]MaterialEditorStats: Base pass shader: 236 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.10.30-05.02.37:438][172]MaterialEditorStats: Base pass vertex shader: 284 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.02.37:438][172]MaterialEditorStats: Texture samplers: 2/16
+[2025.10.30-05.02.37:438][172]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.30-05.02.37:438][172]MaterialEditorStats: Shader Count: 3
+[2025.10.30-05.02.37:439][172]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.03.03:395][516]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 634.771240
+[2025.10.30-05.03.03:705][531]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-05.03.03:705][531]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 635.060913, Update Interval: 309.106110
+[2025.10.30-05.03.39:195][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.30-05.03.39:200][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/1O/94SU23XT1ZNN3YQO5AIR6G_Auto1
+[2025.10.30-05.03.39:200][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/94SU23XT1ZNN3YQO5AIR6G_Auto1F52A70C54B53BB8E769A3684EABDDE79.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/1O/94SU23XT1ZNN3YQO5AIR6G_Auto1.uasset'
+[2025.10.30-05.03.39:202][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/36/DETBMOK2MPKZUHHSRQ0K7U_Auto1
+[2025.10.30-05.03.39:202][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/DETBMOK2MPKZUHHSRQ0K7U_Auto1A53F718A48A4BF34EAF0DC91F4DE342F.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/36/DETBMOK2MPKZUHHSRQ0K7U_Auto1.uasset'
+[2025.10.30-05.03.39:204][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/EB/O17IBKZ85JLRP6UYD60ZPO_Auto1
+[2025.10.30-05.03.39:204][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/O17IBKZ85JLRP6UYD60ZPO_Auto1C1A1FF864273517379CE3682B40F99D7.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/EB/O17IBKZ85JLRP6UYD60ZPO_Auto1.uasset'
+[2025.10.30-05.03.39:207][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/38/XA88HBI2A5EUEQ8MZ9OGWP_Auto1
+[2025.10.30-05.03.39:207][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/XA88HBI2A5EUEQ8MZ9OGWP_Auto19099A7B445700D1CCAF7209662523D46.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/38/XA88HBI2A5EUEQ8MZ9OGWP_Auto1.uasset'
+[2025.10.30-05.03.39:209][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/LV/N1CCP4XBY6XVEYXL5QA4WV_Auto1
+[2025.10.30-05.03.39:209][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/N1CCP4XBY6XVEYXL5QA4WV_Auto14AF86C094D09A294E863E7ACDF3BC525.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/LV/N1CCP4XBY6XVEYXL5QA4WV_Auto1.uasset'
+[2025.10.30-05.03.39:212][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O_Auto1
+[2025.10.30-05.03.39:212][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/0XWE3RNM2XQC0ST1KXG02O_Auto1258C90F0446C866188F26C8E7FED9E45.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O_Auto1.uasset'
+[2025.10.30-05.03.39:214][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IK/75SYFG9J413G4KK6BHJGSY_Auto1
+[2025.10.30-05.03.39:214][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/75SYFG9J413G4KK6BHJGSY_Auto1F8249D9E4956D6E6B6D26FB1919C4E24.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IK/75SYFG9J413G4KK6BHJGSY_Auto1.uasset'
+[2025.10.30-05.03.39:216][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RC/LS2ZKHBBRJ1Z5VF832OAF6_Auto1
+[2025.10.30-05.03.39:216][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/LS2ZKHBBRJ1Z5VF832OAF6_Auto185756689417AF31421D97793D3C758C5.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RC/LS2ZKHBBRJ1Z5VF832OAF6_Auto1.uasset'
+[2025.10.30-05.03.39:218][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RZ/B2RIRIP8G5QN60MEGTFV5O_Auto1
+[2025.10.30-05.03.39:218][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/B2RIRIP8G5QN60MEGTFV5O_Auto1587652D3427549E93292B0A2E952F7F1.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RZ/B2RIRIP8G5QN60MEGTFV5O_Auto1.uasset'
+[2025.10.30-05.03.39:222][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/24/2DNC05G6P6TNWW8Z9T494M_Auto1
+[2025.10.30-05.03.39:222][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/2DNC05G6P6TNWW8Z9T494M_Auto161F8B555469936F0D48A079DE532DA4E.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/24/2DNC05G6P6TNWW8Z9T494M_Auto1.uasset'
+[2025.10.30-05.03.39:224][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OT/8ZQKW7B0WE2VRQ5VGZO9TS_Auto1
+[2025.10.30-05.03.39:224][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/8ZQKW7B0WE2VRQ5VGZO9TS_Auto1997D0E71410149483AC009A88E27BC73.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OT/8ZQKW7B0WE2VRQ5VGZO9TS_Auto1.uasset'
+[2025.10.30-05.03.39:227][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PP/XV0KR2EW6FYG8QS0DU8V9Z_Auto1
+[2025.10.30-05.03.39:227][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/XV0KR2EW6FYG8QS0DU8V9Z_Auto1003364F24F17A480BB84D38A85E0C8B2.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PP/XV0KR2EW6FYG8QS0DU8V9Z_Auto1.uasset'
+[2025.10.30-05.03.39:230][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/TX/O5FNCYAFWA3GHR4HEGCWXV_Auto1
+[2025.10.30-05.03.39:230][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/O5FNCYAFWA3GHR4HEGCWXV_Auto10920E1E84CDBF0E470066DA9F2113599.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/TX/O5FNCYAFWA3GHR4HEGCWXV_Auto1.uasset'
+[2025.10.30-05.03.39:232][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2U/UMS5V8RZEVJYQWII5PXJQV_Auto1
+[2025.10.30-05.03.39:232][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/UMS5V8RZEVJYQWII5PXJQV_Auto10C08F67845AF698EF1548CA61C43AC41.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2U/UMS5V8RZEVJYQWII5PXJQV_Auto1.uasset'
+[2025.10.30-05.03.39:235][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AN/DCS834Y059OB6L0HTSYDLR_Auto1
+[2025.10.30-05.03.39:235][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/DCS834Y059OB6L0HTSYDLR_Auto1DE5711F64E29CCCF90EB5FA2C365A617.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AN/DCS834Y059OB6L0HTSYDLR_Auto1.uasset'
+[2025.10.30-05.03.39:238][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/JJ/TGPEZO3HZ5DPG21AKW86NZ_Auto1
+[2025.10.30-05.03.39:238][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/TGPEZO3HZ5DPG21AKW86NZ_Auto11A338B9245BBDA7A8A2A3AB73D6BEEA3.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/JJ/TGPEZO3HZ5DPG21AKW86NZ_Auto1.uasset'
+[2025.10.30-05.03.39:240][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/W8/Q6W0S4BH3440INOR4XD71T_Auto1
+[2025.10.30-05.03.39:240][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/Q6W0S4BH3440INOR4XD71T_Auto125E6A51749DC28653EA3B49F30AFAD91.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/W8/Q6W0S4BH3440INOR4XD71T_Auto1.uasset'
+[2025.10.30-05.03.39:242][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0U/NIKHZ5LI81VSBJCHO1RNRN_Auto1
+[2025.10.30-05.03.39:242][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/NIKHZ5LI81VSBJCHO1RNRN_Auto1E7EA13724CE9DABE8AD69C84BC7471CB.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0U/NIKHZ5LI81VSBJCHO1RNRN_Auto1.uasset'
+[2025.10.30-05.03.39:244][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2X/C2A3P4K9NOFVVX6TCSIRKB_Auto1
+[2025.10.30-05.03.39:244][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/C2A3P4K9NOFVVX6TCSIRKB_Auto12E64EBC5460E23E277DD559C7D0999D7.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2X/C2A3P4K9NOFVVX6TCSIRKB_Auto1.uasset'
+[2025.10.30-05.03.39:247][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto1
+[2025.10.30-05.03.39:247][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/2XZ3RUK0LFB63FVNQE7P5R_Auto1C50D17E24530D900134A1BAA89D27581.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto1.uasset'
+[2025.10.30-05.03.39:249][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/OB/9P5JOKUWOLYBNFQ8BC308Y_Auto1
+[2025.10.30-05.03.39:249][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/9P5JOKUWOLYBNFQ8BC308Y_Auto1F004A33E4344B7E53124619490A6ACA7.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/OB/9P5JOKUWOLYBNFQ8BC308Y_Auto1.uasset'
+[2025.10.30-05.03.39:252][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto1
+[2025.10.30-05.03.39:252][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/1ZJ54FMA0DAL3I2Q8RFAIB_Auto1132C326C440F16C7AAAAC5A8E2A07C53.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto1.uasset'
+[2025.10.30-05.03.39:254][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SF/6X7IB1ZLB3WUVEJVN9TOQP_Auto1
+[2025.10.30-05.03.39:254][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/6X7IB1ZLB3WUVEJVN9TOQP_Auto132E1603D4BB763B48E39F7A357EFA165.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SF/6X7IB1ZLB3WUVEJVN9TOQP_Auto1.uasset'
+[2025.10.30-05.03.39:256][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/2O/WODIIHR4IEM8ARMUQRJQVC_Auto1
+[2025.10.30-05.03.39:256][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/WODIIHR4IEM8ARMUQRJQVC_Auto103CF960F4230B2FE2589C2AC8812365C.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/2O/WODIIHR4IEM8ARMUQRJQVC_Auto1.uasset'
+[2025.10.30-05.03.39:258][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/2Y/CRUKZ061YU2ZBH7XJ19BJX_Auto1
+[2025.10.30-05.03.39:259][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/CRUKZ061YU2ZBH7XJ19BJX_Auto1308DF2074644965E03754BA13E993273.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/2Y/CRUKZ061YU2ZBH7XJ19BJX_Auto1.uasset'
+[2025.10.30-05.03.39:261][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TI/408PRUIUW4XQ1FO117T2TY_Auto1
+[2025.10.30-05.03.39:261][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/408PRUIUW4XQ1FO117T2TY_Auto1E343922E4EF8D4D88A49CEAEE7230CC3.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TI/408PRUIUW4XQ1FO117T2TY_Auto1.uasset'
+[2025.10.30-05.03.39:264][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/BO/4FWN14T0YE496O8U0CFDET_Auto1
+[2025.10.30-05.03.39:264][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/4FWN14T0YE496O8U0CFDET_Auto1B4FC0E334E169B4BE585CCB2A7AFA297.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/BO/4FWN14T0YE496O8U0CFDET_Auto1.uasset'
+[2025.10.30-05.03.39:265][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto1
+[2025.10.30-05.03.39:265][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/HL558UUAGCS9HVVOI0S7PX_Auto1EDE39B6747328629837E388593E2CDEB.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto1.uasset'
+[2025.10.30-05.03.39:269][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MA/IAIHWKQEYERU2M41OMS5B1_Auto1
+[2025.10.30-05.03.39:269][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/IAIHWKQEYERU2M41OMS5B1_Auto1439C5F5648DD4087E316009CDF93ED19.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MA/IAIHWKQEYERU2M41OMS5B1_Auto1.uasset'
+[2025.10.30-05.03.39:271][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/BN/OGYIK3W1UB4OL2J5YESE0X_Auto1
+[2025.10.30-05.03.39:271][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/OGYIK3W1UB4OL2J5YESE0X_Auto1B1F57DB948C34C5C7A8CE1B8BEE6AC59.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/BN/OGYIK3W1UB4OL2J5YESE0X_Auto1.uasset'
+[2025.10.30-05.03.39:274][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ED/WZ9BJFQUR03OWFUWK8WYW9_Auto1
+[2025.10.30-05.03.39:274][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/WZ9BJFQUR03OWFUWK8WYW9_Auto14D0756F04CE360FB1BAD38BA64BEF426.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ED/WZ9BJFQUR03OWFUWK8WYW9_Auto1.uasset'
+[2025.10.30-05.03.39:275][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/J4/LSQ4V0NW49B0N5AA6U30T3_Auto1
+[2025.10.30-05.03.39:275][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/LSQ4V0NW49B0N5AA6U30T3_Auto13F3B13314CA65E03843F03AE5105DC81.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/J4/LSQ4V0NW49B0N5AA6U30T3_Auto1.uasset'
+[2025.10.30-05.03.39:278][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LD/0ASPJOOLSRG2C1MPTRKUNY_Auto1
+[2025.10.30-05.03.39:278][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/0ASPJOOLSRG2C1MPTRKUNY_Auto11E21DB2F4B9F602DB7A4288CC5418876.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LD/0ASPJOOLSRG2C1MPTRKUNY_Auto1.uasset'
+[2025.10.30-05.03.39:280][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/N6/DAF4LG6LF6LM8JGV6LN61F_Auto1
+[2025.10.30-05.03.39:280][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/DAF4LG6LF6LM8JGV6LN61F_Auto16339D96D48DAF2EDE42668973806D8A9.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/N6/DAF4LG6LF6LM8JGV6LN61F_Auto1.uasset'
+[2025.10.30-05.03.39:283][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/38/FDKM6GO1ML59XIVWZJ4RGC_Auto1
+[2025.10.30-05.03.39:283][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/FDKM6GO1ML59XIVWZJ4RGC_Auto161B7E9BD42D37C35D390F9ABD8C463ED.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/38/FDKM6GO1ML59XIVWZJ4RGC_Auto1.uasset'
+[2025.10.30-05.03.39:285][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7V/3W46BRVDV62R851LENYU21_Auto1
+[2025.10.30-05.03.39:285][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/3W46BRVDV62R851LENYU21_Auto114F521774325AE44CF875A95B32B4F15.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7V/3W46BRVDV62R851LENYU21_Auto1.uasset'
+[2025.10.30-05.03.39:287][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto1
+[2025.10.30-05.03.39:287][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/YUZ9741T50O1SYRX90OB0S_Auto1F125F506412C331B104AC4B646E9D5DE.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto1.uasset'
+[2025.10.30-05.03.39:290][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/1V/HTV93NX068TPLM8IRF952M_Auto1
+[2025.10.30-05.03.39:290][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/HTV93NX068TPLM8IRF952M_Auto172B66E88403E97385B5528B1E526ADF0.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/1V/HTV93NX068TPLM8IRF952M_Auto1.uasset'
+[2025.10.30-05.03.39:291][350]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.128
+[2025.10.30-05.03.39:291][350]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.128
+[2025.10.30-05.03.39:292][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/textures/rock_wall_15_arm_1k] ([1] browsable assets)...
+[2025.10.30-05.03.39:294][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/textures/rock_wall_15_arm_1k.rock_wall_15_arm_1k]
+[2025.10.30-05.03.39:294][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_arm_1k]
+[2025.10.30-05.03.39:298][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/rock_wall_15_arm_1k_Auto1
+[2025.10.30-05.03.39:298][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_arm_1k_Auto148D8FB1C41D6A6E59031ACAEE9D83CB2.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/rock_wall_15_arm_1k_Auto1.uasset'
+[2025.10.30-05.03.39:299][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/textures/rock_wall_15_disp_1k] ([1] browsable assets)...
+[2025.10.30-05.03.39:301][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/textures/rock_wall_15_disp_1k.rock_wall_15_disp_1k]
+[2025.10.30-05.03.39:301][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_disp_1k]
+[2025.10.30-05.03.39:304][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/rock_wall_15_disp_1k_Auto1
+[2025.10.30-05.03.39:304][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_disp_1k_Auto1FB581F75403A9B95AD2A0B858D6B86A4.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/rock_wall_15_disp_1k_Auto1.uasset'
+[2025.10.30-05.03.39:305][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/textures/rock_wall_15_diff_1k] ([1] browsable assets)...
+[2025.10.30-05.03.39:307][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/textures/rock_wall_15_diff_1k.rock_wall_15_diff_1k]
+[2025.10.30-05.03.39:307][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_diff_1k]
+[2025.10.30-05.03.39:310][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/rock_wall_15_diff_1k_Auto1
+[2025.10.30-05.03.39:310][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_diff_1k_Auto1F650F11F4A0E5AF3342ED69D325BDBB6.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/rock_wall_15_diff_1k_Auto1.uasset'
+[2025.10.30-05.03.39:311][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/textures/rock_wall_15_nor_gl_1k] ([1] browsable assets)...
+[2025.10.30-05.03.39:313][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/textures/rock_wall_15_nor_gl_1k.rock_wall_15_nor_gl_1k]
+[2025.10.30-05.03.39:313][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_nor_gl_1k]
+[2025.10.30-05.03.39:321][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/rock_wall_15_nor_gl_1k_Auto1
+[2025.10.30-05.03.39:321][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_nor_gl_1k_Auto13FABC85C4AF67A53546D25BE0B4FE8FA.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/rock_wall_15_nor_gl_1k_Auto1.uasset'
+[2025.10.30-05.03.39:322][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/textures/rock_wall_15_ao_1k] ([1] browsable assets)...
+[2025.10.30-05.03.39:324][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/textures/rock_wall_15_ao_1k.rock_wall_15_ao_1k]
+[2025.10.30-05.03.39:324][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_ao_1k]
+[2025.10.30-05.03.39:327][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/rock_wall_15_ao_1k_Auto1
+[2025.10.30-05.03.39:327][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_ao_1k_Auto1A3F2752541D1A0DB3D5AEAB8C9BA5903.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/rock_wall_15_ao_1k_Auto1.uasset'
+[2025.10.30-05.03.39:328][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/textures/rock_wall_15_rough_1k] ([1] browsable assets)...
+[2025.10.30-05.03.39:331][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/textures/rock_wall_15_rough_1k.rock_wall_15_rough_1k]
+[2025.10.30-05.03.39:331][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_rough_1k]
+[2025.10.30-05.03.39:334][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/rock_wall_15_rough_1k_Auto1
+[2025.10.30-05.03.39:334][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_rough_1k_Auto10F5C44DE43BB2AA301C0B1B832476F2C.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/rock_wall_15_rough_1k_Auto1.uasset'
+[2025.10.30-05.03.39:336][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/textures/Rockwalltexture] ([1] browsable assets)...
+[2025.10.30-05.03.39:349][350]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/textures/Rockwalltexture.Rockwalltexture]
+[2025.10.30-05.03.39:349][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/Rockwalltexture]
+[2025.10.30-05.03.39:350][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/Rockwalltexture_Auto1
+[2025.10.30-05.03.39:350][350]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/Rockwalltexture_Auto1B33CAA5D477752EF3A79DC965EEDDFD4.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/Rockwalltexture_Auto1.uasset'
+[2025.10.30-05.03.39:351][350]LogFileHelpers: Auto-saving content packages took 0.059
+[2025.10.30-05.04.43:022][546]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Total job queries 253, among them cache hits 66 (26.09%), DDC hits 166 (65.61%), Duplicates 5 (1.98%)
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Tracking 182 distinct input hashes that result in 158 distinct outputs (86.81%)
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: RAM used: 121.28 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Shaders Compiled: 16
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Average time worker was idle: 9.01 s
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Time job spent in pending queue: average 0.78 s, longest 3.73 s
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Job execution time: average 2.53 s, max 4.26 s
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Job life time (pending + execution): average 3.31 s, max 4.48
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Shader code size: average 7.461 KiB, min 4.113 KiB, max 10.461 KiB
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.44 s
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Average processing rate: 2.48 jobs/sec
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Total thread time: 15.708 s
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Total thread preprocess time: 5.216 s
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Percentage time preprocessing: 33.21%
+[2025.10.30-05.04.43:023][546]LogShaderCompilers: Display: Effective parallelization: 2.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 1.20 sec, max 1.54 sec, min 0.74 sec)
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.95 sec, max 1.27 sec, min 0.52 sec)
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 0.94 sec, max 1.10 sec, min 0.65 sec)
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.71 sec, max 1.05 sec, min 0.53 sec)
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 38.35% of total time (compiled    5 times, average 1.20 sec, max 1.54 sec, min 0.74 sec)
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.15% of total time (compiled    5 times, average 0.95 sec, max 1.27 sec, min 0.52 sec)
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display:                                                 FLumenCardPS - 17.98% of total time (compiled    3 times, average 0.94 sec, max 1.10 sec, min 0.65 sec)
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.52% of total time (compiled    3 times, average 0.71 sec, max 1.05 sec, min 0.53 sec)
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display: Materials Translated:    198
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display: Material Total Translate Time: 0.44 s
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display: Material Translation Only: 0.26 s (59%)
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display: Material Cache Hits: 20 (10%)
+[2025.10.30-05.04.43:024][546]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.05.09:430][ 38]LogSlate: Window 'Message' being destroyed
+[2025.10.30-05.05.09:436][ 38]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/textures/Rockwalltexture.Rockwalltexture
+(Selecting 'No' will cause all changes to be lost!)
+[2025.10.30-05.05.09:569][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.30-05.05.12:201][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.30-05.05.12:233][ 38]LogSlate: Window 'Rockwalltexture' being destroyed
+[2025.10.30-05.05.12:237][ 38]LogSlate: Window 'Rockwalltexture' being destroyed
+[2025.10.30-05.05.16:930][474]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2025.10.30-05.05.16:930][474]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.TSR.Resurrection:0]]
+[2025.10.30-05.05.16:930][474]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.10.30-05.05.16:930][474]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.10.30-05.05.16:931][474]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.10.30-05.05.16:931][474]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2025.10.30-05.05.16:932][474]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.DetailMode:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2025.10.30-05.05.16:932][474]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:8]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:128]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:128]]
+[2025.10.30-05.05.16:933][474]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2025.10.30-05.05.16:933][474]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.10.30-05.05.16:933][474]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.10.30-05.05.16:933][474]LogConfig: Applying CVar settings from Section [LandscapeQuality@0] File [Scalability]
+[2025.10.30-05.05.17:316][474]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.30-05.05.17:336][474]LogContentStreaming: Texture pool size now 400 MB
+[2025.10.30-05.05.17:337][474]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="400"
+[2025.10.30-05.05.17:406][475]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.10.30-05.05.17:532][475]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.10.30-05.05.17:631][475]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.10.30-05.05.18:810][570]LogPSOHitching: Encountered 50 PSO creation hitches so far (40 graphics, 10 compute). 0 of them were precached.
+[2025.10.30-05.05.22:229][882]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/textures/Rockwalltexture.Rockwalltexture
+[2025.10.30-05.05.22:233][882]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.30-05.05.22:713][882]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.05.22:713][882]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.30-05.05.22:713][882]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.05.22:713][882]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.05.22:837][884]MaterialEditorStats: Base pass shader: 238 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.10.30-05.05.22:837][884]MaterialEditorStats: Base pass vertex shader: 284 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.05.22:837][884]MaterialEditorStats: Texture samplers: 2/16
+[2025.10.30-05.05.22:837][884]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.30-05.05.22:837][884]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.05.22:837][884]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.05.34:131][651]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.05.34:131][651]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.30-05.05.34:131][651]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.05.34:131][651]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.05.34:131][651]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.05.35:463][726]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.05.35:463][726]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.05.35:463][726]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.30-05.05.35:463][726]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.05.35:463][726]MaterialEditorStats: Shader Count: 1
+[2025.10.30-05.05.35:463][726]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.05.35:779][745]MaterialEditorStats: Base pass shader: 241 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.10.30-05.05.35:779][745]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.05.35:779][745]MaterialEditorStats: Texture samplers: 3/16
+[2025.10.30-05.05.35:779][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.30-05.05.35:779][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.05.35:779][745]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.05.35:779][745]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: Total job queries 288, among them cache hits 79 (27.43%), DDC hits 166 (57.64%), Duplicates 12 (4.17%)
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: Tracking 197 distinct input hashes that result in 169 distinct outputs (85.79%)
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: RAM used: 125.35 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: Shaders Compiled: 31
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: Jobs assigned 31, completed 31 (100%)
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: Average time worker was idle: 64.21 s
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: Time job spent in pending queue: average 0.61 s, longest 3.73 s
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: Job execution time: average 2.00 s, max 4.26 s
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: Job life time (pending + execution): average 2.61 s, max 4.48
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: Shader code size: average 8.712 KiB, min 4.113 KiB, max 13.02 KiB
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.55 s
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-05.07.43:302][568]LogShaderCompilers: Display: Jobs were issued in 31 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display: Average processing rate: 2.94 jobs/sec
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display: Total thread time: 28.229 s
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display: Total thread preprocess time: 5.878 s
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display: Percentage time preprocessing: 20.82%
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display: Effective parallelization: 2.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.52 sec, max 1.52 sec, min 1.52 sec)
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 1.12 sec, max 1.54 sec, min 0.74 sec)
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.83% of total time (compiled    7 times, average 1.12 sec, max 1.54 sec, min 0.74 sec)
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.31% of total time (compiled    7 times, average 0.86 sec, max 1.27 sec, min 0.52 sec)
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.00% of total time (compiled    4 times, average 0.85 sec, max 1.10 sec, min 0.56 sec)
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.34% of total time (compiled    4 times, average 0.66 sec, max 1.05 sec, min 0.51 sec)
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.40% of total time (compiled    1 times, average 1.52 sec, max 1.52 sec, min 1.52 sec)
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display: Materials Translated:    207
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display: Material Total Translate Time: 0.45 s
+[2025.10.30-05.07.43:303][568]LogShaderCompilers: Display: Material Translation Only: 0.27 s (59%)
+[2025.10.30-05.07.43:304][568]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.30-05.07.43:304][568]LogShaderCompilers: Display: Material Cache Hits: 20 (10%)
+[2025.10.30-05.07.43:304][568]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.08.19:664][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 951.037231
+[2025.10.30-05.08.20:656][680]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-05.08.20:656][680]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 951.700806, Update Interval: 354.003113
+[2025.10.30-05.10.20:151][722]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.10.20:151][722]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.30-05.10.20:151][722]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.10.20:151][722]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.10.20:151][722]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.10.20:232][724]MaterialEditorStats: Base pass shader: 241 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.10.30-05.10.20:232][724]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.10.20:232][724]MaterialEditorStats: Texture samplers: 3/16
+[2025.10.30-05.10.20:232][724]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.30-05.10.20:232][724]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.10.20:232][724]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.10.20:232][724]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.10.39:295][737]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.10.39:295][737]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.10.30-05.10.39:295][737]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.10.39:295][737]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.10.39:295][737]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.10.40:879][828]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.10.40:879][828]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.10.40:879][828]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.10.30-05.10.40:879][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.10.40:879][828]MaterialEditorStats: Shader Count: 1
+[2025.10.30-05.10.40:879][828]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.10.41:069][840]MaterialEditorStats: Base pass shader: 241 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.10.30-05.10.41:069][840]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.10.41:069][840]MaterialEditorStats: Texture samplers: 3/16
+[2025.10.30-05.10.41:069][840]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.10.30-05.10.41:069][840]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.10.41:069][840]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.10.41:069][840]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Total job queries 308, among them cache hits 97 (31.49%), DDC hits 166 (53.90%), Duplicates 12 (3.90%)
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Tracking 199 distinct input hashes that result in 170 distinct outputs (85.43%)
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: RAM used: 125.67 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Shaders Compiled: 33
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Jobs assigned 33, completed 33 (100%)
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Average time worker was idle: 84.18 s
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Time job spent in pending queue: average 0.58 s, longest 3.73 s
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Job execution time: average 1.98 s, max 4.26 s
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Job life time (pending + execution): average 2.55 s, max 4.48
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Shader code size: average 8.816 KiB, min 4.113 KiB, max 13.02 KiB
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.29 s
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Jobs were issued in 33 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Average processing rate: 2.69 jobs/sec
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Total thread time: 29.721 s
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Total thread preprocess time: 6.218 s
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Percentage time preprocessing: 20.92%
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Effective parallelization: 2.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.52 sec, max 1.52 sec, min 1.52 sec)
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.09 sec, max 1.54 sec, min 0.74 sec)
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2025.10.30-05.10.43:314][977]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.35% of total time (compiled    8 times, average 1.09 sec, max 1.54 sec, min 0.74 sec)
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.34% of total time (compiled    8 times, average 0.83 sec, max 1.27 sec, min 0.52 sec)
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.40% of total time (compiled    4 times, average 0.85 sec, max 1.10 sec, min 0.56 sec)
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.87% of total time (compiled    4 times, average 0.66 sec, max 1.05 sec, min 0.51 sec)
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.13% of total time (compiled    1 times, average 1.52 sec, max 1.52 sec, min 1.52 sec)
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display: Materials Translated:    215
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display: Material Total Translate Time: 0.45 s
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display: Material Translation Only: 0.27 s (59%)
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display: Material Cache Hits: 20 (9%)
+[2025.10.30-05.10.43:315][977]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.13.42:443][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.30-05.13.42:445][436]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.042
+[2025.10.30-05.13.42:445][436]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/textures/Rockwalltexture] ([1] browsable assets)...
+[2025.10.30-05.13.42:461][436]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/textures/Rockwalltexture.Rockwalltexture]
+[2025.10.30-05.13.42:461][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/Rockwalltexture]
+[2025.10.30-05.13.42:464][436]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/Rockwalltexture_Auto2
+[2025.10.30-05.13.42:464][436]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/Rockwalltexture_Auto2F7076AEE422D22037504F9A4F9368FF8.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/Rockwalltexture_Auto2.uasset'
+[2025.10.30-05.13.42:465][436]LogFileHelpers: Auto-saving content packages took 0.020
+[2025.10.30-05.13.56:907][880]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.13.56:907][880]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.13.56:907][880]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.13.56:907][880]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.13.56:907][880]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.13.58:410][970]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.13.58:411][970]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.13.58:411][970]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.13.58:411][970]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.13.58:411][970]MaterialEditorStats: Shader Count: 1
+[2025.10.30-05.13.58:411][970]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.13.58:622][983]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-05.13.58:623][983]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.13.58:623][983]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.30-05.13.58:623][983]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.13.58:623][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.13.58:623][983]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.13.58:623][983]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.14.23:949][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1315.304688
+[2025.10.30-05.14.24:247][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-05.14.24:247][802]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1315.588135, Update Interval: 353.030792
+[2025.10.30-05.16.34:427][834]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.16.34:428][834]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.16.34:428][834]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.16.34:428][834]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.16.34:428][834]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.16.34:518][836]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-05.16.34:519][836]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.16.34:519][836]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.30-05.16.34:519][836]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.16.34:519][836]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.16.34:519][836]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.16.34:519][836]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Total job queries 338, among them cache hits 125 (36.98%), DDC hits 166 (49.11%), Duplicates 12 (3.55%)
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Tracking 201 distinct input hashes that result in 171 distinct outputs (85.07%)
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: RAM used: 126.00 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Shaders Compiled: 35
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Jobs assigned 35, completed 35 (100%)
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Average time worker was idle: 92.78 s
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Time job spent in pending queue: average 0.55 s, longest 3.73 s
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Job execution time: average 1.95 s, max 4.26 s
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Job life time (pending + execution): average 2.50 s, max 4.48
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Shader code size: average 8.916 KiB, min 4.113 KiB, max 13.02 KiB
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.96 s
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Jobs were issued in 35 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Average processing rate: 2.51 jobs/sec
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Total thread time: 31.281 s
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Total thread preprocess time: 6.94 s
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Percentage time preprocessing: 22.19%
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Effective parallelization: 2.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.52 sec, max 1.52 sec, min 1.52 sec)
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 1.07 sec, max 1.54 sec, min 0.74 sec)
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-05.16.43:343][367]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.73% of total time (compiled    9 times, average 1.07 sec, max 1.54 sec, min 0.74 sec)
+[2025.10.30-05.16.43:344][367]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.37% of total time (compiled    9 times, average 0.81 sec, max 1.27 sec, min 0.52 sec)
+[2025.10.30-05.16.43:344][367]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.83% of total time (compiled    4 times, average 0.85 sec, max 1.10 sec, min 0.56 sec)
+[2025.10.30-05.16.43:344][367]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.43% of total time (compiled    4 times, average 0.66 sec, max 1.05 sec, min 0.51 sec)
+[2025.10.30-05.16.43:344][367]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.87% of total time (compiled    1 times, average 1.52 sec, max 1.52 sec, min 1.52 sec)
+[2025.10.30-05.16.43:344][367]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-05.16.43:344][367]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-05.16.43:344][367]LogShaderCompilers: Display: Materials Translated:    229
+[2025.10.30-05.16.43:344][367]LogShaderCompilers: Display: Material Total Translate Time: 0.46 s
+[2025.10.30-05.16.43:344][367]LogShaderCompilers: Display: Material Translation Only: 0.27 s (59%)
+[2025.10.30-05.16.43:344][367]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.30-05.16.43:344][367]LogShaderCompilers: Display: Material Cache Hits: 20 (9%)
+[2025.10.30-05.16.43:344][367]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.17.03:025][735]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.17.03:026][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.17.03:026][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.17.03:026][735]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.17.03:026][735]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.17.03:095][737]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-05.17.03:095][737]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.17.03:095][737]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.30-05.17.03:095][737]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.17.03:095][737]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.17.03:095][737]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.17.03:095][737]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.17.08:970][115]LogEditorTransaction: Undo Create Pin Link
+[2025.10.30-05.17.09:125][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-05.17.12:379][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.30-05.17.12:502][115]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-05.17.12:503][115]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.17.12:503][115]MaterialEditorStats: MaxSampler: 312 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2025.10.30-05.17.12:503][115]MaterialEditorStats: Texture samplers: 6/16
+[2025.10.30-05.17.12:503][115]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.17.12:503][115]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.17.12:503][115]MaterialEditorStats: Shader Count: 16
+[2025.10.30-05.17.12:503][115]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.17.19:617][566]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.17.19:617][566]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.17.19:617][566]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.17.19:618][566]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.17.19:618][566]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.17.19:712][569]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-05.17.19:712][569]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.17.19:712][569]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.30-05.17.19:713][569]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.17.19:713][569]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.17.19:713][569]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.17.19:713][569]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: Total job queries 382, among them cache hits 158 (41.36%), DDC hits 166 (43.46%), Duplicates 12 (3.14%)
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: Tracking 212 distinct input hashes that result in 180 distinct outputs (84.91%)
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: RAM used: 129.42 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: Shaders Compiled: 46
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: Jobs assigned 46, completed 46 (100%)
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: Average time worker was idle: 211.26 s
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: Time job spent in pending queue: average 0.50 s, longest 3.73 s
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: Job execution time: average 1.89 s, max 4.26 s
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: Job life time (pending + execution): average 2.39 s, max 4.48
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: Shader code size: average 9.424 KiB, min 4.113 KiB, max 14 KiB
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.90 s
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: Jobs were issued in 46 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-05.19.43:358][598]LogShaderCompilers: Display: Average processing rate: 2.72 jobs/sec
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: Total thread time: 41.107 s
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: Total thread preprocess time: 7.897 s
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: Percentage time preprocessing: 19.21%
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: Effective parallelization: 2.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.69 sec, max 1.86 sec, min 1.52 sec)
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 1.07 sec, max 1.54 sec, min 0.74 sec)
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.01 sec, max 1.03 sec, min 1.00 sec)
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.99 sec, max 1.01 sec, min 0.98 sec)
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.94 sec, max 0.96 sec, min 0.92 sec)
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.39% of total time (compiled    9 times, average 1.07 sec, max 1.54 sec, min 0.74 sec)
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.78% of total time (compiled    9 times, average 0.81 sec, max 1.27 sec, min 0.52 sec)
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.64% of total time (compiled    5 times, average 0.79 sec, max 1.10 sec, min 0.56 sec)
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.22% of total time (compiled    2 times, average 1.69 sec, max 1.86 sec, min 1.52 sec)
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.72% of total time (compiled    5 times, average 0.63 sec, max 1.05 sec, min 0.51 sec)
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: Materials Translated:    244
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: Material Total Translate Time: 0.46 s
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: Material Translation Only: 0.27 s (59%)
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: Material Cache Hits: 20 (8%)
+[2025.10.30-05.19.43:359][598]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.20.48:308][695]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1699.667358
+[2025.10.30-05.20.48:599][713]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-05.20.48:600][713]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1699.943970, Update Interval: 324.665070
+[2025.10.30-05.22.24:596][ 17]LogMaterialEditor: Applying material Rockwalltexture
+[2025.10.30-05.22.24:725][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.10.30-05.22.27:325][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.30-05.22.27:343][ 17]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-05.22.27:344][ 17]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.22.27:344][ 17]MaterialEditorStats: MaxSampler: 312 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2025.10.30-05.22.27:344][ 17]MaterialEditorStats: Texture samplers: 6/16
+[2025.10.30-05.22.27:344][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.22.27:344][ 17]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.22.27:344][ 17]MaterialEditorStats: Shader Count: 16
+[2025.10.30-05.22.27:344][ 17]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Total job queries 400, among them cache hits 174 (43.50%), DDC hits 166 (41.50%), Duplicates 12 (3.00%)
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Tracking 214 distinct input hashes that result in 181 distinct outputs (84.58%)
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: RAM used: 130.13 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Shaders Compiled: 48
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Average time worker was idle: 216.48 s
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Time job spent in pending queue: average 0.49 s, longest 3.73 s
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Job execution time: average 1.88 s, max 4.26 s
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Job life time (pending + execution): average 2.36 s, max 4.48
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Shader code size: average 9.471 KiB, min 4.113 KiB, max 14 KiB
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.22 s
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Jobs were issued in 48 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Average processing rate: 2.50 jobs/sec
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Total thread time: 43.021 s
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Total thread preprocess time: 8.217 s
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Percentage time preprocessing: 19.10%
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Effective parallelization: 2.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-05.22.43:368][ 20]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.64 sec, max 1.86 sec, min 1.52 sec)
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 1.07 sec, max 1.54 sec, min 0.74 sec)
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.01 sec, max 1.03 sec, min 1.00 sec)
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.99 sec, max 1.01 sec, min 0.98 sec)
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.94 sec, max 0.96 sec, min 0.92 sec)
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.35% of total time (compiled    9 times, average 1.07 sec, max 1.54 sec, min 0.74 sec)
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.99% of total time (compiled    9 times, average 0.81 sec, max 1.27 sec, min 0.52 sec)
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.45% of total time (compiled    3 times, average 1.64 sec, max 1.86 sec, min 1.52 sec)
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.21% of total time (compiled    5 times, average 0.79 sec, max 1.10 sec, min 0.56 sec)
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.37% of total time (compiled    5 times, average 0.63 sec, max 1.05 sec, min 0.51 sec)
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display: Materials Translated:    246
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display: Material Total Translate Time: 0.47 s
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display: Material Translation Only: 0.27 s (58%)
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display: Material Cache Hits: 20 (8%)
+[2025.10.30-05.22.43:369][ 20]LogShaderCompilers: Display: ================================================
+[2025.10.30-05.23.11:598][886]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.23.11:598][886]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.23.11:598][886]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.23.11:598][886]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.23.11:598][886]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.23.11:627][887]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-05.23.11:627][887]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.23.11:627][887]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.30-05.23.11:627][887]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.23.11:627][887]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.23.11:627][887]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.23.11:627][887]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.23.15:696][165]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.23.15:696][165]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.23.15:696][165]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.23.15:696][165]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.23.15:696][165]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.23.15:741][167]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-05.23.15:741][167]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.23.15:741][167]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.30-05.23.15:741][167]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.23.15:741][167]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.23.15:741][167]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.23.15:741][167]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.23.26:793][929]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.23.26:794][929]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.23.26:794][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.23.26:794][929]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.23.26:794][929]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.23.26:855][931]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-05.23.26:855][931]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.23.26:855][931]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.30-05.23.26:855][931]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.23.26:855][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.23.26:855][931]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.23.26:855][931]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.23.43:969][230]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.23.43:969][230]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.23.43:970][230]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.23.43:970][230]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.23.43:970][230]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.23.44:020][233]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-05.23.44:020][233]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.23.44:021][233]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.30-05.23.44:021][233]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.23.44:021][233]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.23.44:021][233]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.23.44:021][233]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.23.53:429][867]LogMaterialEditor: Applying material Rockwalltexture
+[2025.10.30-05.23.53:563][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.30-05.23.53:756][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.30-05.23.53:772][867]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-05.23.53:772][867]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.23.53:772][867]MaterialEditorStats: MaxSampler: 312 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2025.10.30-05.23.53:772][867]MaterialEditorStats: Texture samplers: 6/16
+[2025.10.30-05.23.53:772][867]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.23.53:772][867]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.23.53:772][867]MaterialEditorStats: Shader Count: 16
+[2025.10.30-05.23.53:773][867]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.23.55:305][968]LogSlate: Window 'Rockwalltexture' being destroyed
+[2025.10.30-05.23.55:312][968]LogSlate: Window 'Rockwalltexture' being destroyed
+[2025.10.30-05.23.59:110][329]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.10.30-05.24.03:961][849]Cmd: TRANSACTION UNDO
+[2025.10.30-05.24.03:961][849]LogEditorTransaction: Undo Place Objects
+[2025.10.30-05.24.57:023][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.30-05.24.57:030][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/1O/94SU23XT1ZNN3YQO5AIR6G_Auto3
+[2025.10.30-05.24.57:030][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/94SU23XT1ZNN3YQO5AIR6G_Auto37C74521B4575E4B49166B3968CDC0D8F.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/1O/94SU23XT1ZNN3YQO5AIR6G_Auto3.uasset'
+[2025.10.30-05.24.57:032][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/36/DETBMOK2MPKZUHHSRQ0K7U_Auto3
+[2025.10.30-05.24.57:032][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/DETBMOK2MPKZUHHSRQ0K7U_Auto355140D7B4BCFAD57C2D5B79318235E6B.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/36/DETBMOK2MPKZUHHSRQ0K7U_Auto3.uasset'
+[2025.10.30-05.24.57:034][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/EB/O17IBKZ85JLRP6UYD60ZPO_Auto3
+[2025.10.30-05.24.57:034][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/O17IBKZ85JLRP6UYD60ZPO_Auto3F2BADCA04E251FEB795D658D2458C936.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/EB/O17IBKZ85JLRP6UYD60ZPO_Auto3.uasset'
+[2025.10.30-05.24.57:036][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/38/XA88HBI2A5EUEQ8MZ9OGWP_Auto3
+[2025.10.30-05.24.57:036][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/XA88HBI2A5EUEQ8MZ9OGWP_Auto3506845A64EBB5A4CA7F4BBA184C2F4CE.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/38/XA88HBI2A5EUEQ8MZ9OGWP_Auto3.uasset'
+[2025.10.30-05.24.57:037][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/LV/N1CCP4XBY6XVEYXL5QA4WV_Auto3
+[2025.10.30-05.24.57:037][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/N1CCP4XBY6XVEYXL5QA4WV_Auto3A66A13DC48BC362E84C2D39617CE7538.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/LV/N1CCP4XBY6XVEYXL5QA4WV_Auto3.uasset'
+[2025.10.30-05.24.57:039][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O_Auto3
+[2025.10.30-05.24.57:039][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/0XWE3RNM2XQC0ST1KXG02O_Auto36ACA67884CE5E6D6FF49AF9B9D47B05B.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O_Auto3.uasset'
+[2025.10.30-05.24.57:041][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IK/75SYFG9J413G4KK6BHJGSY_Auto3
+[2025.10.30-05.24.57:041][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/75SYFG9J413G4KK6BHJGSY_Auto30D87DF2C4E7940096C9F0BBF03EA6B63.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IK/75SYFG9J413G4KK6BHJGSY_Auto3.uasset'
+[2025.10.30-05.24.57:043][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RC/LS2ZKHBBRJ1Z5VF832OAF6_Auto3
+[2025.10.30-05.24.57:043][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/LS2ZKHBBRJ1Z5VF832OAF6_Auto35CF0E49143A283383684C9B90564CD6E.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RC/LS2ZKHBBRJ1Z5VF832OAF6_Auto3.uasset'
+[2025.10.30-05.24.57:046][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RZ/B2RIRIP8G5QN60MEGTFV5O_Auto3
+[2025.10.30-05.24.57:046][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/B2RIRIP8G5QN60MEGTFV5O_Auto3F19DC9214B27DA2C9D2E8A941C061F2A.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RZ/B2RIRIP8G5QN60MEGTFV5O_Auto3.uasset'
+[2025.10.30-05.24.57:048][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/24/2DNC05G6P6TNWW8Z9T494M_Auto3
+[2025.10.30-05.24.57:049][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/2DNC05G6P6TNWW8Z9T494M_Auto3BA73BCFD450DB2CC9DE2F29018F9B981.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/24/2DNC05G6P6TNWW8Z9T494M_Auto3.uasset'
+[2025.10.30-05.24.57:052][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OT/8ZQKW7B0WE2VRQ5VGZO9TS_Auto3
+[2025.10.30-05.24.57:053][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/8ZQKW7B0WE2VRQ5VGZO9TS_Auto33A2E851B44B747C746C1609C77681179.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OT/8ZQKW7B0WE2VRQ5VGZO9TS_Auto3.uasset'
+[2025.10.30-05.24.57:053][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PP/XV0KR2EW6FYG8QS0DU8V9Z_Auto3
+[2025.10.30-05.24.57:053][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/XV0KR2EW6FYG8QS0DU8V9Z_Auto343C8293446E8BFC0CD3A5D9A7378F582.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PP/XV0KR2EW6FYG8QS0DU8V9Z_Auto3.uasset'
+[2025.10.30-05.24.57:056][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/TX/O5FNCYAFWA3GHR4HEGCWXV_Auto3
+[2025.10.30-05.24.57:056][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/O5FNCYAFWA3GHR4HEGCWXV_Auto35B2F065D4835C1EC1BF1E089EB0E2E6B.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/TX/O5FNCYAFWA3GHR4HEGCWXV_Auto3.uasset'
+[2025.10.30-05.24.57:059][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2U/UMS5V8RZEVJYQWII5PXJQV_Auto3
+[2025.10.30-05.24.57:059][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/UMS5V8RZEVJYQWII5PXJQV_Auto3593852B04C7080D1FF275383D1357ADA.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2U/UMS5V8RZEVJYQWII5PXJQV_Auto3.uasset'
+[2025.10.30-05.24.57:061][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AN/DCS834Y059OB6L0HTSYDLR_Auto3
+[2025.10.30-05.24.57:061][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/DCS834Y059OB6L0HTSYDLR_Auto3F414C8CF46E5241AFA8CAA884DAC758D.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AN/DCS834Y059OB6L0HTSYDLR_Auto3.uasset'
+[2025.10.30-05.24.57:063][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/JJ/TGPEZO3HZ5DPG21AKW86NZ_Auto3
+[2025.10.30-05.24.57:063][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/TGPEZO3HZ5DPG21AKW86NZ_Auto3552CE9DD417A5074F4780EBDEFBC048A.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/JJ/TGPEZO3HZ5DPG21AKW86NZ_Auto3.uasset'
+[2025.10.30-05.24.57:065][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/W8/Q6W0S4BH3440INOR4XD71T_Auto3
+[2025.10.30-05.24.57:065][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/Q6W0S4BH3440INOR4XD71T_Auto3D650F5384814CE01C82A27A9DE2C6C80.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/W8/Q6W0S4BH3440INOR4XD71T_Auto3.uasset'
+[2025.10.30-05.24.57:067][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0U/NIKHZ5LI81VSBJCHO1RNRN_Auto3
+[2025.10.30-05.24.57:067][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/NIKHZ5LI81VSBJCHO1RNRN_Auto3EF0F6BFE49B644EE0ECAB89DFB3B8229.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0U/NIKHZ5LI81VSBJCHO1RNRN_Auto3.uasset'
+[2025.10.30-05.24.57:069][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2X/C2A3P4K9NOFVVX6TCSIRKB_Auto3
+[2025.10.30-05.24.57:069][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/C2A3P4K9NOFVVX6TCSIRKB_Auto3C6833D7C4F44D4997C90BFADCAC667B5.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2X/C2A3P4K9NOFVVX6TCSIRKB_Auto3.uasset'
+[2025.10.30-05.24.57:071][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto3
+[2025.10.30-05.24.57:071][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/2XZ3RUK0LFB63FVNQE7P5R_Auto33F996748477D28C4B45D489D49F068FA.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto3.uasset'
+[2025.10.30-05.24.57:073][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/OB/9P5JOKUWOLYBNFQ8BC308Y_Auto3
+[2025.10.30-05.24.57:074][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/9P5JOKUWOLYBNFQ8BC308Y_Auto35A44EEEE43D977CDE181CD88710D8544.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/OB/9P5JOKUWOLYBNFQ8BC308Y_Auto3.uasset'
+[2025.10.30-05.24.57:076][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto3
+[2025.10.30-05.24.57:076][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/1ZJ54FMA0DAL3I2Q8RFAIB_Auto365317D644F1C2F27EC6D6FAC3FEDE59D.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto3.uasset'
+[2025.10.30-05.24.57:079][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SF/6X7IB1ZLB3WUVEJVN9TOQP_Auto3
+[2025.10.30-05.24.57:079][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/6X7IB1ZLB3WUVEJVN9TOQP_Auto3ABADABC44BB0CCBB8A2427B6ACCDCB6D.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SF/6X7IB1ZLB3WUVEJVN9TOQP_Auto3.uasset'
+[2025.10.30-05.24.57:081][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/2O/WODIIHR4IEM8ARMUQRJQVC_Auto3
+[2025.10.30-05.24.57:081][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/WODIIHR4IEM8ARMUQRJQVC_Auto375D3205A4D3A0B881493BE9C7A542EC0.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/2O/WODIIHR4IEM8ARMUQRJQVC_Auto3.uasset'
+[2025.10.30-05.24.57:083][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/2Y/CRUKZ061YU2ZBH7XJ19BJX_Auto3
+[2025.10.30-05.24.57:083][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/CRUKZ061YU2ZBH7XJ19BJX_Auto36B223A1542F0819432653AAF301323B5.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/2Y/CRUKZ061YU2ZBH7XJ19BJX_Auto3.uasset'
+[2025.10.30-05.24.57:085][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TI/408PRUIUW4XQ1FO117T2TY_Auto3
+[2025.10.30-05.24.57:085][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/408PRUIUW4XQ1FO117T2TY_Auto3EB3BF8F24ED017EF334D3EA55FD0C451.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TI/408PRUIUW4XQ1FO117T2TY_Auto3.uasset'
+[2025.10.30-05.24.57:087][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/BO/4FWN14T0YE496O8U0CFDET_Auto3
+[2025.10.30-05.24.57:087][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/4FWN14T0YE496O8U0CFDET_Auto392C9AF864D23A982C7AD0C8E5CA0217B.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/BO/4FWN14T0YE496O8U0CFDET_Auto3.uasset'
+[2025.10.30-05.24.57:089][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto3
+[2025.10.30-05.24.57:089][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/HL558UUAGCS9HVVOI0S7PX_Auto30B8173824F2D8B8D114BC98AF81280C5.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto3.uasset'
+[2025.10.30-05.24.57:091][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MA/IAIHWKQEYERU2M41OMS5B1_Auto3
+[2025.10.30-05.24.57:092][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/IAIHWKQEYERU2M41OMS5B1_Auto3A60A7D924DCBF61D61F9DF9C56AA068B.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MA/IAIHWKQEYERU2M41OMS5B1_Auto3.uasset'
+[2025.10.30-05.24.57:094][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/BN/OGYIK3W1UB4OL2J5YESE0X_Auto3
+[2025.10.30-05.24.57:095][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/OGYIK3W1UB4OL2J5YESE0X_Auto380235E3A4B7D492C40E4BE8F83532E58.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/BN/OGYIK3W1UB4OL2J5YESE0X_Auto3.uasset'
+[2025.10.30-05.24.57:097][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ED/WZ9BJFQUR03OWFUWK8WYW9_Auto3
+[2025.10.30-05.24.57:097][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/WZ9BJFQUR03OWFUWK8WYW9_Auto34C17309D4C42B93C8D6B72B47875FD9C.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ED/WZ9BJFQUR03OWFUWK8WYW9_Auto3.uasset'
+[2025.10.30-05.24.57:099][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/J4/LSQ4V0NW49B0N5AA6U30T3_Auto3
+[2025.10.30-05.24.57:099][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/LSQ4V0NW49B0N5AA6U30T3_Auto384C769064F6C754CBE47988B03FEB378.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/J4/LSQ4V0NW49B0N5AA6U30T3_Auto3.uasset'
+[2025.10.30-05.24.57:101][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LD/0ASPJOOLSRG2C1MPTRKUNY_Auto3
+[2025.10.30-05.24.57:101][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/0ASPJOOLSRG2C1MPTRKUNY_Auto39B28568B458C7115F6B8CF9E2A027392.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LD/0ASPJOOLSRG2C1MPTRKUNY_Auto3.uasset'
+[2025.10.30-05.24.57:103][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/N6/DAF4LG6LF6LM8JGV6LN61F_Auto3
+[2025.10.30-05.24.57:103][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/DAF4LG6LF6LM8JGV6LN61F_Auto3820A583541A5CE41F72D428A0C2EFFBD.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/N6/DAF4LG6LF6LM8JGV6LN61F_Auto3.uasset'
+[2025.10.30-05.24.57:105][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/38/FDKM6GO1ML59XIVWZJ4RGC_Auto3
+[2025.10.30-05.24.57:105][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/FDKM6GO1ML59XIVWZJ4RGC_Auto362C59D134DAA987F7241798B93C5DC2E.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/38/FDKM6GO1ML59XIVWZJ4RGC_Auto3.uasset'
+[2025.10.30-05.24.57:108][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7V/3W46BRVDV62R851LENYU21_Auto3
+[2025.10.30-05.24.57:108][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/3W46BRVDV62R851LENYU21_Auto36ECE0E5E49EA87D6F17FC2AFAC77F560.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7V/3W46BRVDV62R851LENYU21_Auto3.uasset'
+[2025.10.30-05.24.57:111][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto3
+[2025.10.30-05.24.57:111][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/YUZ9741T50O1SYRX90OB0S_Auto3A856FCCD49BFD470E528C2B71996EC27.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto3.uasset'
+[2025.10.30-05.24.57:113][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/1V/HTV93NX068TPLM8IRF952M_Auto3
+[2025.10.30-05.24.57:113][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/HTV93NX068TPLM8IRF952M_Auto3EA95B11641DA2C2D05304597C94225F2.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/1V/HTV93NX068TPLM8IRF952M_Auto3.uasset'
+[2025.10.30-05.24.57:114][463]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.116
+[2025.10.30-05.24.57:114][463]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.116
+[2025.10.30-05.24.57:114][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/rock_wall_15_arm_1k] ([1] browsable assets)...
+[2025.10.30-05.24.57:115][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_arm_1k]
+[2025.10.30-05.24.57:116][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/rock_wall_15_arm_1k_Auto3
+[2025.10.30-05.24.57:116][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_arm_1k_Auto38D8E321149C154416BCE199D0BD6B2A5.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/rock_wall_15_arm_1k_Auto3.uasset'
+[2025.10.30-05.24.57:117][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/rock_wall_15_disp_1k] ([1] browsable assets)...
+[2025.10.30-05.24.57:117][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_disp_1k]
+[2025.10.30-05.24.57:120][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/rock_wall_15_disp_1k_Auto3
+[2025.10.30-05.24.57:120][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_disp_1k_Auto3F30C0B164A8840C20E6B2B9B094831A7.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/rock_wall_15_disp_1k_Auto3.uasset'
+[2025.10.30-05.24.57:121][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/rock_wall_15_diff_1k] ([1] browsable assets)...
+[2025.10.30-05.24.57:121][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_diff_1k]
+[2025.10.30-05.24.57:123][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/rock_wall_15_diff_1k_Auto3
+[2025.10.30-05.24.57:123][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_diff_1k_Auto3C4E4CFA44ECDFE02AD6A698DE0DB8C01.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/rock_wall_15_diff_1k_Auto3.uasset'
+[2025.10.30-05.24.57:124][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/rock_wall_15_nor_gl_1k] ([1] browsable assets)...
+[2025.10.30-05.24.57:124][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_nor_gl_1k]
+[2025.10.30-05.24.57:132][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/rock_wall_15_nor_gl_1k_Auto3
+[2025.10.30-05.24.57:132][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_nor_gl_1k_Auto34FC3011A47463439C2FD57B8241BBED1.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/rock_wall_15_nor_gl_1k_Auto3.uasset'
+[2025.10.30-05.24.57:133][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/rock_wall_15_ao_1k] ([1] browsable assets)...
+[2025.10.30-05.24.57:133][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_ao_1k]
+[2025.10.30-05.24.57:135][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/rock_wall_15_ao_1k_Auto3
+[2025.10.30-05.24.57:135][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_ao_1k_Auto30500549944EAE084B76C0893B0700CC8.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/rock_wall_15_ao_1k_Auto3.uasset'
+[2025.10.30-05.24.57:136][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/rock_wall_15_rough_1k] ([1] browsable assets)...
+[2025.10.30-05.24.57:136][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_rough_1k]
+[2025.10.30-05.24.57:138][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/rock_wall_15_rough_1k_Auto3
+[2025.10.30-05.24.57:138][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_rough_1k_Auto35CE7F9574828B9E8FEB99683B4E6831B.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/rock_wall_15_rough_1k_Auto3.uasset'
+[2025.10.30-05.24.57:139][463]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/textures/Rockwalltexture] ([1] browsable assets)...
+[2025.10.30-05.24.57:156][463]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/textures/Rockwalltexture.Rockwalltexture]
+[2025.10.30-05.24.57:156][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/Rockwalltexture]
+[2025.10.30-05.24.57:159][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/textures/Rockwalltexture_Auto3
+[2025.10.30-05.24.57:159][463]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/Rockwalltexture_Auto3D5D35FB5475B211CF75774AC225D0195.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Saved/Autosaves/Game/Assets/textures/Rockwalltexture_Auto3.uasset'
+[2025.10.30-05.24.57:160][463]LogFileHelpers: Auto-saving content packages took 0.047
+[2025.10.30-05.26.26:537][584]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/textures/Rockwalltexture.Rockwalltexture
+[2025.10.30-05.26.26:541][584]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.30-05.26.27:028][584]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.26.27:028][584]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.26.27:028][584]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.26.27:028][584]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.26.27:028][584]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.26.27:162][586]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-05.26.27:162][586]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.26.27:162][586]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.30-05.26.27:162][586]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.26.27:162][586]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.26.27:162][586]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.26.27:162][586]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.26.48:824][327]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2060.177979
+[2025.10.30-05.26.49:101][345]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-05.26.49:101][345]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2060.438965, Update Interval: 302.755829
+[2025.10.30-05.27.24:508][794]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.30-05.27.24:508][794]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.27.24:508][794]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.27.24:508][794]MaterialEditorStats: Shader Count: 0
+[2025.10.30-05.27.24:508][794]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.27.24:560][796]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.30-05.27.24:560][796]MaterialEditorStats: Base pass vertex shader: 289 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.30-05.27.24:560][796]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.30-05.27.24:560][796]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.30-05.27.24:560][796]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.30-05.27.24:560][796]MaterialEditorStats: Shader Count: 2
+[2025.10.30-05.27.24:560][796]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.30-05.27.36:953][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.30-05.27.36:960][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-05.27.37:019][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.30-05.27.37:032][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.30-05.27.37:047][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.30-05.27.37:051][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/1O/94SU23XT1ZNN3YQO5AIR6G
+[2025.10.30-05.27.37:051][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/94SU23XT1ZNN3YQO5AIR6G50E4CE674BAB8FEDE1AE0881B395ECD0.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/1O/94SU23XT1ZNN3YQO5AIR6G.uasset'
+[2025.10.30-05.27.37:053][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/36/DETBMOK2MPKZUHHSRQ0K7U
+[2025.10.30-05.27.37:053][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/DETBMOK2MPKZUHHSRQ0K7U09EA374B47BCDED164D7F6AFEEFA179C.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/36/DETBMOK2MPKZUHHSRQ0K7U.uasset'
+[2025.10.30-05.27.37:055][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/EB/O17IBKZ85JLRP6UYD60ZPO
+[2025.10.30-05.27.37:055][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/O17IBKZ85JLRP6UYD60ZPOBBDC0DB5437F8B990452FFA9C5EAECFC.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/EB/O17IBKZ85JLRP6UYD60ZPO.uasset'
+[2025.10.30-05.27.37:058][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/38/XA88HBI2A5EUEQ8MZ9OGWP
+[2025.10.30-05.27.37:058][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/XA88HBI2A5EUEQ8MZ9OGWPD0DE835341F542A31DAD4582FA838FB1.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/38/XA88HBI2A5EUEQ8MZ9OGWP.uasset'
+[2025.10.30-05.27.37:060][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/LV/N1CCP4XBY6XVEYXL5QA4WV
+[2025.10.30-05.27.37:060][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/N1CCP4XBY6XVEYXL5QA4WV18D7E21E489C9F8C6D6EDF8CD15731A1.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/LV/N1CCP4XBY6XVEYXL5QA4WV.uasset'
+[2025.10.30-05.27.37:064][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O
+[2025.10.30-05.27.37:064][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/0XWE3RNM2XQC0ST1KXG02O499CF81243289CA1749AD491CDA5711F.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset'
+[2025.10.30-05.27.37:067][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IK/75SYFG9J413G4KK6BHJGSY
+[2025.10.30-05.27.37:067][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/75SYFG9J413G4KK6BHJGSY0C67405A460B5F2AC00B33B6918A6B97.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IK/75SYFG9J413G4KK6BHJGSY.uasset'
+[2025.10.30-05.27.37:069][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RC/LS2ZKHBBRJ1Z5VF832OAF6
+[2025.10.30-05.27.37:070][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/LS2ZKHBBRJ1Z5VF832OAF6A464346A44BF1A441BA94ABD89BE392D.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RC/LS2ZKHBBRJ1Z5VF832OAF6.uasset'
+[2025.10.30-05.27.37:072][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RZ/B2RIRIP8G5QN60MEGTFV5O
+[2025.10.30-05.27.37:072][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/B2RIRIP8G5QN60MEGTFV5O06B146524A8C2BFEC82682B91E91CF0F.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RZ/B2RIRIP8G5QN60MEGTFV5O.uasset'
+[2025.10.30-05.27.37:075][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/24/2DNC05G6P6TNWW8Z9T494M
+[2025.10.30-05.27.37:075][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/2DNC05G6P6TNWW8Z9T494M0126D6434E6C933BC2A71EBA2FF53083.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/24/2DNC05G6P6TNWW8Z9T494M.uasset'
+[2025.10.30-05.27.37:078][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OT/8ZQKW7B0WE2VRQ5VGZO9TS
+[2025.10.30-05.27.37:078][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/8ZQKW7B0WE2VRQ5VGZO9TSC8A4E0BB4F40E98AC6F12F9E515C0A9F.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OT/8ZQKW7B0WE2VRQ5VGZO9TS.uasset'
+[2025.10.30-05.27.37:080][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PP/XV0KR2EW6FYG8QS0DU8V9Z
+[2025.10.30-05.27.37:080][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/XV0KR2EW6FYG8QS0DU8V9Z314803784B231A535285BFAFCAA3D51B.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PP/XV0KR2EW6FYG8QS0DU8V9Z.uasset'
+[2025.10.30-05.27.37:084][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/TX/O5FNCYAFWA3GHR4HEGCWXV
+[2025.10.30-05.27.37:084][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/O5FNCYAFWA3GHR4HEGCWXVA6CAE1544CFC3812309D8B94C618F95C.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/TX/O5FNCYAFWA3GHR4HEGCWXV.uasset'
+[2025.10.30-05.27.37:087][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2U/UMS5V8RZEVJYQWII5PXJQV
+[2025.10.30-05.27.37:087][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/UMS5V8RZEVJYQWII5PXJQV6586E5B64193A81C9B816AB97A6EF78E.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2U/UMS5V8RZEVJYQWII5PXJQV.uasset'
+[2025.10.30-05.27.37:090][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AN/DCS834Y059OB6L0HTSYDLR
+[2025.10.30-05.27.37:090][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/DCS834Y059OB6L0HTSYDLRA515B3EC4C7A22A668679EA446AAE02A.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AN/DCS834Y059OB6L0HTSYDLR.uasset'
+[2025.10.30-05.27.37:092][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/JJ/TGPEZO3HZ5DPG21AKW86NZ
+[2025.10.30-05.27.37:092][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/TGPEZO3HZ5DPG21AKW86NZ0746F090483B8BD3B86FE39748519DF0.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/JJ/TGPEZO3HZ5DPG21AKW86NZ.uasset'
+[2025.10.30-05.27.37:095][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/W8/Q6W0S4BH3440INOR4XD71T
+[2025.10.30-05.27.37:095][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/Q6W0S4BH3440INOR4XD71T3626967E41F4665444CD5FB08CABB593.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/W8/Q6W0S4BH3440INOR4XD71T.uasset'
+[2025.10.30-05.27.37:098][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0U/NIKHZ5LI81VSBJCHO1RNRN
+[2025.10.30-05.27.37:099][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/NIKHZ5LI81VSBJCHO1RNRN87C2D3134845B25BEB93138499343B33.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0U/NIKHZ5LI81VSBJCHO1RNRN.uasset'
+[2025.10.30-05.27.37:101][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2X/C2A3P4K9NOFVVX6TCSIRKB
+[2025.10.30-05.27.37:101][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/C2A3P4K9NOFVVX6TCSIRKB95583DE74F850CA82B8BB4AA46212FD3.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2X/C2A3P4K9NOFVVX6TCSIRKB.uasset'
+[2025.10.30-05.27.37:103][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R
+[2025.10.30-05.27.37:104][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/2XZ3RUK0LFB63FVNQE7P5RD5B41F3D4AFB09150BB1438C77A7D6A9.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset'
+[2025.10.30-05.27.37:106][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/OB/9P5JOKUWOLYBNFQ8BC308Y
+[2025.10.30-05.27.37:107][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/9P5JOKUWOLYBNFQ8BC308Y2EEB23854DE868D2400FC8A2E303CB42.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/OB/9P5JOKUWOLYBNFQ8BC308Y.uasset'
+[2025.10.30-05.27.37:109][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+[2025.10.30-05.27.37:109][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/1ZJ54FMA0DAL3I2Q8RFAIB41783A564A2B0C66D71900BF76ADC113.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset'
+[2025.10.30-05.27.37:112][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SF/6X7IB1ZLB3WUVEJVN9TOQP
+[2025.10.30-05.27.37:113][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/6X7IB1ZLB3WUVEJVN9TOQPF1CFB7D3494FB458294A51A95AA507E6.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SF/6X7IB1ZLB3WUVEJVN9TOQP.uasset'
+[2025.10.30-05.27.37:115][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/2O/WODIIHR4IEM8ARMUQRJQVC
+[2025.10.30-05.27.37:116][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/WODIIHR4IEM8ARMUQRJQVCEC365EE24383A4062805138C17A0867B.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/2O/WODIIHR4IEM8ARMUQRJQVC.uasset'
+[2025.10.30-05.27.37:118][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/2Y/CRUKZ061YU2ZBH7XJ19BJX
+[2025.10.30-05.27.37:118][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/CRUKZ061YU2ZBH7XJ19BJX51BB48B4467AEA0F324455A6F7963558.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/2Y/CRUKZ061YU2ZBH7XJ19BJX.uasset'
+[2025.10.30-05.27.37:121][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TI/408PRUIUW4XQ1FO117T2TY
+[2025.10.30-05.27.37:122][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/408PRUIUW4XQ1FO117T2TYC67E8261439C106B0587E2B83753CB50.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/TI/408PRUIUW4XQ1FO117T2TY.uasset'
+[2025.10.30-05.27.37:124][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/BO/4FWN14T0YE496O8U0CFDET
+[2025.10.30-05.27.37:124][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/4FWN14T0YE496O8U0CFDETCE2C1A014695BD811265AD96FA5F7C59.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/BO/4FWN14T0YE496O8U0CFDET.uasset'
+[2025.10.30-05.27.37:127][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX
+[2025.10.30-05.27.37:127][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/HL558UUAGCS9HVVOI0S7PXCA873D20492593CF789CC184793CDABC.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset'
+[2025.10.30-05.27.37:129][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MA/IAIHWKQEYERU2M41OMS5B1
+[2025.10.30-05.27.37:130][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/IAIHWKQEYERU2M41OMS5B19FDF098D4FB919372C4F08B58AE24BD9.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MA/IAIHWKQEYERU2M41OMS5B1.uasset'
+[2025.10.30-05.27.37:133][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/BN/OGYIK3W1UB4OL2J5YESE0X
+[2025.10.30-05.27.37:133][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/OGYIK3W1UB4OL2J5YESE0X333A7D074E32DFA4C5CAEB9DCB8A6284.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/BN/OGYIK3W1UB4OL2J5YESE0X.uasset'
+[2025.10.30-05.27.37:135][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ED/WZ9BJFQUR03OWFUWK8WYW9
+[2025.10.30-05.27.37:227][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/WZ9BJFQUR03OWFUWK8WYW9CDD006BA4ADF10F6E3E032A088C5359D.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ED/WZ9BJFQUR03OWFUWK8WYW9.uasset'
+[2025.10.30-05.27.37:242][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/J4/LSQ4V0NW49B0N5AA6U30T3
+[2025.10.30-05.27.37:243][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/LSQ4V0NW49B0N5AA6U30T3719604334D11C5616CF077B0FE97DAF1.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/J4/LSQ4V0NW49B0N5AA6U30T3.uasset'
+[2025.10.30-05.27.37:249][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LD/0ASPJOOLSRG2C1MPTRKUNY
+[2025.10.30-05.27.37:250][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/0ASPJOOLSRG2C1MPTRKUNY167612624ACDBD22E20A069A2CC5A0FB.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LD/0ASPJOOLSRG2C1MPTRKUNY.uasset'
+[2025.10.30-05.27.37:254][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/N6/DAF4LG6LF6LM8JGV6LN61F
+[2025.10.30-05.27.37:255][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/DAF4LG6LF6LM8JGV6LN61F0A47E4504E7ADB95C6E451AC72984B7D.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/N6/DAF4LG6LF6LM8JGV6LN61F.uasset'
+[2025.10.30-05.27.37:257][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/38/FDKM6GO1ML59XIVWZJ4RGC
+[2025.10.30-05.27.37:257][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/FDKM6GO1ML59XIVWZJ4RGC228236D54841141D15AFC8A68E59B063.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/38/FDKM6GO1ML59XIVWZJ4RGC.uasset'
+[2025.10.30-05.27.37:259][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7V/3W46BRVDV62R851LENYU21
+[2025.10.30-05.27.37:260][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/3W46BRVDV62R851LENYU215B86831C4D4B28426F328F9D04563198.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7V/3W46BRVDV62R851LENYU21.uasset'
+[2025.10.30-05.27.37:262][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S
+[2025.10.30-05.27.37:263][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/YUZ9741T50O1SYRX90OB0SB3DDA67949F1F7B58DC554B390EE0D53.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset'
+[2025.10.30-05.27.37:265][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/1V/HTV93NX068TPLM8IRF952M
+[2025.10.30-05.27.37:266][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/HTV93NX068TPLM8IRF952M72DE01E242B8F9ACD41D1F82191399C4.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/1V/HTV93NX068TPLM8IRF952M.uasset'
+[2025.10.30-05.27.37:267][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/rock_wall_15_arm_1k] ([1] browsable assets)...
+[2025.10.30-05.27.37:267][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_arm_1k]
+[2025.10.30-05.27.37:267][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/textures/rock_wall_15_arm_1k" FILE="../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/rock_wall_15_arm_1k.uasset" SILENT=true
+[2025.10.30-05.27.37:270][613]LogSavePackage: Moving output files for package: /Game/Assets/textures/rock_wall_15_arm_1k
+[2025.10.30-05.27.37:270][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_arm_1k40CF8C154392B3FBB4EEF88773A9EEC7.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/rock_wall_15_arm_1k.uasset'
+[2025.10.30-05.27.37:271][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/rock_wall_15_disp_1k] ([1] browsable assets)...
+[2025.10.30-05.27.37:271][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_disp_1k]
+[2025.10.30-05.27.37:271][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/textures/rock_wall_15_disp_1k" FILE="../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/rock_wall_15_disp_1k.uasset" SILENT=true
+[2025.10.30-05.27.37:288][613]LogSavePackage: Moving output files for package: /Game/Assets/textures/rock_wall_15_disp_1k
+[2025.10.30-05.27.37:288][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_disp_1k4B297202413B554BB3CD059BB142145E.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/rock_wall_15_disp_1k.uasset'
+[2025.10.30-05.27.37:289][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/rock_wall_15_diff_1k] ([1] browsable assets)...
+[2025.10.30-05.27.37:289][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_diff_1k]
+[2025.10.30-05.27.37:289][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/textures/rock_wall_15_diff_1k" FILE="../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/rock_wall_15_diff_1k.uasset" SILENT=true
+[2025.10.30-05.27.37:292][613]LogSavePackage: Moving output files for package: /Game/Assets/textures/rock_wall_15_diff_1k
+[2025.10.30-05.27.37:292][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_diff_1k5CF0FA0C48D4CA040AD377A4A24B5D93.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/rock_wall_15_diff_1k.uasset'
+[2025.10.30-05.27.37:292][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/rock_wall_15_nor_gl_1k] ([1] browsable assets)...
+[2025.10.30-05.27.37:292][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_nor_gl_1k]
+[2025.10.30-05.27.37:292][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/textures/rock_wall_15_nor_gl_1k" FILE="../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/rock_wall_15_nor_gl_1k.uasset" SILENT=true
+[2025.10.30-05.27.37:326][613]LogSavePackage: Moving output files for package: /Game/Assets/textures/rock_wall_15_nor_gl_1k
+[2025.10.30-05.27.37:326][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_nor_gl_1k848036D54F0EA369C70A4A9280FA763E.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/rock_wall_15_nor_gl_1k.uasset'
+[2025.10.30-05.27.37:327][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/rock_wall_15_ao_1k] ([1] browsable assets)...
+[2025.10.30-05.27.37:327][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_ao_1k]
+[2025.10.30-05.27.37:327][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/textures/rock_wall_15_ao_1k" FILE="../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/rock_wall_15_ao_1k.uasset" SILENT=true
+[2025.10.30-05.27.37:329][613]LogSavePackage: Moving output files for package: /Game/Assets/textures/rock_wall_15_ao_1k
+[2025.10.30-05.27.37:329][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_ao_1k37149C3248E13516C97FCF99122A6843.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/rock_wall_15_ao_1k.uasset'
+[2025.10.30-05.27.37:389][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/rock_wall_15_rough_1k] ([1] browsable assets)...
+[2025.10.30-05.27.37:389][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/rock_wall_15_rough_1k]
+[2025.10.30-05.27.37:389][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/textures/rock_wall_15_rough_1k" FILE="../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/rock_wall_15_rough_1k.uasset" SILENT=true
+[2025.10.30-05.27.37:410][613]LogSavePackage: Moving output files for package: /Game/Assets/textures/rock_wall_15_rough_1k
+[2025.10.30-05.27.37:410][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/rock_wall_15_rough_1k61BEF46B428EADC6CB75A5A15FB0D0C7.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/rock_wall_15_rough_1k.uasset'
+[2025.10.30-05.27.37:412][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/Rockwalltexture] ([1] browsable assets)...
+[2025.10.30-05.27.37:412][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/Rockwalltexture]
+[2025.10.30-05.27.37:412][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/textures/Rockwalltexture" FILE="../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/Rockwalltexture.uasset" SILENT=true
+[2025.10.30-05.27.37:415][613]LogSavePackage: Moving output files for package: /Game/Assets/textures/Rockwalltexture
+[2025.10.30-05.27.37:415][613]LogSavePackage: Moving '../../../../../ASIM/Game-level-Design_Asim/Saved/Rockwalltexture1D6F60BC437F2D24B8CBBA805E2A9129.tmp' to '../../../../../ASIM/Game-level-Design_Asim/Content/Assets/textures/Rockwalltexture.uasset'
+[2025.10.30-05.27.37:428][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 467.905 ms (total: 807.170 ms)
+[2025.10.30-05.27.37:516][613]LogContentValidation: Display: Starting to validate 45 assets
+[2025.10.30-05.27.37:516][613]LogContentValidation: Enabled validators:
+[2025.10.30-05.27.37:516][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-05.27.37:516][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-05.27.37:516][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-05.27.37:518][613]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-05.27.37:518][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-05.27.37:518][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-05.27.37:518][613]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.10.30-05.27.37:518][613]AssetCheck: /Game/Assets/textures/rock_wall_15_arm_1k Validating asset
+[2025.10.30-05.27.37:518][613]AssetCheck: /Game/Assets/textures/rock_wall_15_disp_1k Validating asset
+[2025.10.30-05.27.37:518][613]AssetCheck: /Game/Assets/textures/rock_wall_15_diff_1k Validating asset
+[2025.10.30-05.27.37:518][613]AssetCheck: /Game/Assets/textures/rock_wall_15_nor_gl_1k Validating asset
+[2025.10.30-05.27.37:518][613]AssetCheck: /Game/Assets/textures/rock_wall_15_ao_1k Validating asset
+[2025.10.30-05.27.37:519][613]AssetCheck: /Game/Assets/textures/rock_wall_15_rough_1k Validating asset
+[2025.10.30-05.27.37:519][613]AssetCheck: /Game/Assets/textures/Rockwalltexture Validating asset
